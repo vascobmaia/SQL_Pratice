@@ -4,9 +4,9 @@ The goal is to strengthen my PostgreSQL skills by analyzing the DVD Rental datab
 
 Through this project, I aim to enhance my SQL knowledge and share my progress in data analysis and relational database modeling.
 
-## Exercises Covered
+## Fundamentals Exercises Covered
 
-**Fundamentals**
+
 - Counting records (`COUNT`)
 - Filtering ranges (`BETWEEN`)
 - Pattern matching (`LIKE`)
