@@ -6,9 +6,14 @@ Through this project, I aim to enhance my SQL knowledge and share my progress in
 
 ## Fundamentals Exercises Covered
 
+These exercises explore essential SQL concepts used in data querying and analysis:
 
-- Counting records (`COUNT`)
-- Filtering ranges (`BETWEEN`)
-- Pattern matching (`LIKE`)
-- Unique values (`DISTINCT`)
-- Sorting results (`ORDER BY`)
+- Counting records with `COUNT()`
+- Filtering numeric and date ranges using `BETWEEN`
+- Searching text patterns using `LIKE`
+- Retrieving unique values with `DISTINCT`
+- Sorting result sets with `ORDER BY`
+- Grouping data using `GROUP BY`
+- Filtering grouped results using `HAVING`
+- Using aggregate functions (`SUM`, `AVG`, `MIN`, `MAX`, `COUNT`)
+
