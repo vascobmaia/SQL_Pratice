@@ -1,8 +1,10 @@
-# SQL_Pratice Zero to Hero Udemy course
-This repository contains the exercises I completed while taking the “The Complete SQL Bootcamp” course on Udemy.
-The goal is to strengthen my PostgreSQL skills by analyzing the DVD Rental database, exploring concepts such as queries, joins, aggregate functions, subqueries, and table creation.
+# SQL_Practice — Zero to Hero (Udemy Course)
 
-Through this project, I aim to enhance my SQL knowledge and share my progress in data analysis and relational database modeling.
+This repository contains the exercises I completed while taking the **"The Complete SQL Bootcamp: Go from Zero to Hero"** course on Udemy. The goal is to strengthen my PostgreSQL skills by analyzing the **DVD Rental** database and exploring key SQL concepts such as queries, joins, aggregate functions, subqueries, and table creation.
+
+Through this project, I aim to enhance my SQL knowledge and document my progress in data analysis and relational database modeling.
+
+---
 
 ## Fundamentals Exercises Covered
 
@@ -16,4 +18,5 @@ These exercises explore essential SQL concepts used in data querying and analysi
 - Grouping data using `GROUP BY`
 - Filtering grouped results using `HAVING`
 - Using aggregate functions (`SUM`, `AVG`, `MIN`, `MAX`, `COUNT`)
+
 
